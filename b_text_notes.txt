@@ -176,7 +176,7 @@ is - copula
 
 ar - prep "for"
 
-tic - "come" ?
+tic - "come" ? or do-icc?
 
 fuithib - dat. pl. ?
 
@@ -202,7 +202,7 @@ coibes - "equal amount"
 
 in re - "space, interval, lapse of time"
 
-tic - "come"?
+tic - "come"? or do-icc
 
 fo bunad - "under" / "original stock"
 
@@ -221,3 +221,61 @@ contract and under fraud of ignorance in his witness"
 
 *****
 
+cubaid de-side ciama coibes in re cisa ticfad fo bunad cunnartha a
+memar ina ecmais ⁊ 
+
+cubaid - "in accord, agreeing"
+
+de-side - "from this"
+
+ciama - cia + ma(?) "although if"?
+
+in re - "space, interval"
+
+coibes - "equal amount"
+
+cisa - gen. sing. "tax, tribute"
+
+ticfad - 3rd sing. conditional prototonic of do-icc see GOI 513(b)
+
+fo bunad - "under original stock"
+
+cunnartha - "contract, bargin"
+
+a - "his"
+
+memar - "tenants"
+
+ina ecmais - "in his absence"
+
+"an agreeing for this although if(?) the interval of tax would come under original stock of a contract of his tenants in his absence and"
+
+*****
+
+fo diubairt anfesa ina fiadnaise
+
+diubairt - from díupart "defrauding"
+
+anfesa - "ignorance"
+
+ina - "in the"
+
+fiadnaise - "witness, testimony"
+
+"under unknowing fraud in the witness"
+
+*****
+
+cor saercheli flatha on trath coraili
+
+cor - "contract"
+
+saercheli - "of a free client"
+
+flatha - "of a lord"
+
+on trath coraili - "until the same time next day" see DIL T 275.008
+
+"a contract of a free client of a lord until the same time next day"
+
+*****
