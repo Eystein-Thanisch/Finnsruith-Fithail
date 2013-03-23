@@ -279,3 +279,91 @@ on trath coraili - "until the same time next day" see DIL T 275.008
 "a contract of a free client of a lord until the same time next day"
 
 *****
+
+Cor cach maic sarleithe ⁊ cach fir don finechairi ar .iii.
+
+cor - "contract"
+
+maic saerleithe - "emanicpated son" DIL S 10.005
+
+don - "for the/to the"
+
+finechairi - "faulty-kin"
+
+ar - "on"
+
+"a contract of an emancipated son for the faulty-kin on three(?)"
+
+*****
+
+Cor manaig riagalta sech apaid co iar .n.ti
+
+Cor - "a contract"
+
+manaig - gen. "of a church tenant"
+
+riagalta - "devout" adj. io-ia stem
+
+sech - prep "beyond/without"
+
+apaid - "abbot" gen. sing.
+
+cor iar - "until after"
+
+"a contract of a devout church tenant without an abbot until after
+three months"
+
+*****
+
+cor apad sech a marchu co iar .x.
+
+"a contract of an abbo without his monks until after ten months"
+
+*****
+
+u.thi don apaid re tichtain fo coraib a saermanach
+
+u.thi - "five months"
+
+don - "for the"
+
+apaid - "abbot" acc. sing.
+
+re - prep "before"
+
+tichtain - acc. sing of tíchtu "coming to"
+
+fo - "under"
+
+coraib - dat. pl. "contracts"
+
+a - "his"
+
+saermanach - "free church tenants"
+
+"five months for the abbot before coming to his free church tenants
+under contracts"
+
+*****
+
+⁊ a diablad-sin dona manachaib re tichtain fo coraib in apad
+
+diablad - "double" (liability?) DIL D2 55.015
+
+dona - "for/to the" pl.
+
+monachaib - "the church tenants" dat. pl.
+
+re - prep "before"
+
+tichtain - "coming to"
+
+fo - prep. "under"
+
+coraib - "contracts"
+
+in apad - "the abbot"
+
+"and this doubling (of liability?) for the church tenants before
+coming to under contracts of the abbot"
+
