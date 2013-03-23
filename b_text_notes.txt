@@ -7,7 +7,8 @@ contracts"
 
 *****
 
-.i. a mo sai in raith ɫ a mo sai in raid, ɫ a mo sai is mo raides firinne.
+.i. a mo sai in raith ɫ a mo sai in raid, ɫ a mo sai is mo raides
+firinne.
 
 a mo sai - sai -> suí + gen. "expert/master" of
 
@@ -15,9 +16,11 @@ raith - "properity" or ráth "surety"
 
 in raid - "of the statement"
 
-is mo raides firinne - "which is my ? of justice" ráides see fecht DIL F 53.077
+is mo raides firinne - "which is my ? of justice" ráides see fecht DIL
+F 53.077
 
-".i. oh my master of surety(?), or o my master of maxim, or o my ? of justice"
+".i. oh my master of surety(?), or o my master of maxim, or o my ? of
+justice"
 
 *****
 
@@ -37,12 +40,58 @@ os - pres. "above/over" w/dat.
 
 dicurtha - ?
 
-"how do/should/shall they bear my judgement on that which is aforementioned over ? out of it"
+"how do/should/shall they bear my judgement on that which is
+aforementioned over ? out of it"
 
 *****
 
 cuir na memar a necmais na cend?
 
 cuir - "put, place, contract(?)"
+
+na - pl. art.
+
+memar - from mem(m)ar "member of a community, tenant"
+
+necmais - n-ecmais "absence"
+
+na cend - "of the head"
+
+"the tenats contract when [there is] an absence of the head [chief?]"
+
+*****
+
+Bunad cundartha na memar a fiadnaise na cenn amal bunad cunnartha na
+cenn budein.
+
+Bunad - from búan (búanad) "act of perpetuating"
+
+cundartha - from cundrad "contract, pact"
+
+na memar - "the members"
+
+a - nas. rel. see GOI sec 499
+
+fiadnaise - (fíadnaise) "evidence, attestation"
+
+na cenn - "of the head"
+
+amal - "as, like" following nas. rel.
+
+budien - fadéin "self"
+
+"perpetuating the contract of the tenants that the witness of the
+chief as perpetuating the contract of the cheif himself"
+
+*****
+
+cuitid fesa ⁊ trebairi ⁊ bunad cunnartha do cunnarthaib na memar a
+fiadnaise na cenn amal bunad cunnartha na cen budein.
+
+cuitid - "shares, participates"
+
+fesa - "cattle tresspass" or "entertainment"
+
+treairi - "securety, guarantee"
 
 
