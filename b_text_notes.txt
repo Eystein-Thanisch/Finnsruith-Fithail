@@ -92,6 +92,132 @@ cuitid - "shares, participates"
 
 fesa - "cattle tresspass" or "entertainment"
 
-treairi - "securety, guarantee"
+trebairi - "securety, guarantee"
 
+bunad - "act of perpetuating"
+
+cunnartha - "contract, bargin"
+
+do - "to/for"
+
+cunnarthaib - dat. pl. "contracts"
+
+na memar - "of the tenants"
+
+a - rel. nas.
+
+fiadnaise - "witness"
+
+na cenn - "of the chief"
+
+ama - "like/as"
+
+budein - "himself"
+
+"he shares entertainment and security and perpetuating a contraact to
+the contracts of the tenants which the wintess of the head like
+perpetuating the contracts of the heads themselves"
+
+*****
+
+cuitid anfesa ⁊ nemtrebairi ⁊ bunad cunnartha do coraib na memar a
+fiadnaise na cenn amal bunad cunnartha na memar ina fiadnaise
+
+anfesa - "ignorance"
+
+nemtrebairi - nem- (un-) "secure"
+
+corais - "puttings/contracts"
+
+ina - "in the"
+
+"he shares ignorance and insecurity and prepetuating contracts for
+contracts of the tenants which the witness of the chief like
+perpetuating the contracts of the tenants in the witness."
+
+*****
+
+Can asa ngabar sin
+
+ngabar - pass 3rd sing. of gabaid "take"
+
+"whence has that been taken"
+
+*****
+
+Is as gabar da racad nech .s. in cinn ina ecmais .s. nech eli ar
+daigin maithisa ris,
+
+as - prep "out of"
+
+gabar - pass 3rd sing "been taken"
+
+da-r-acad (ad-gab) - ?
+
+nech - "anyone"
+
+in cinn - "of the head"
+
+ina ecmais - "in his absence"
+
+eli - ele "other"
+
+ar daigin - "because of, for the sake of"
+
+maithisa - "good, goodness" (noun rather than adj)
+
+ris - "news, tidings" (f)ris?
+
+*****
+
+is ar .x.maid tic fuithib ⁊ ar .x.maid tic fo diubairt anfesa ina fiadnaise,
+
+is - copula
+
+ar - prep "for"
+
+tic - "come" ?
+
+fuithib - dat. pl. ?
+
+fo - prep "under"
+
+diubairt - "defrauding, cheating"
+
+anfesa - gen. sing. "of ignorance"
+
+ina - "in his"
+
+fiadnaise - "witness"
+
+*****
+
+amail is coibes in re tic fo bunad cunnartha fein ina ecmais ⁊ fo diubairt anfesa ina fiadnaise,
+
+amail - "like"
+
+is - copula
+
+coibes - "equal amount"
+
+in re - "space, interval, lapse of time"
+
+tic - "come"?
+
+fo bunad - "under" / "original stock"
+
+cunnartha - "contract, bargin"
+
+fein - "himself"
+
+ina ecmais - "in his absence"
+
+fo diubairt - "under fraud"
+
+anfesa - "ignorance"
+
+"as is an equal amount the interval(?) under original stock of the
+contract and under fraud of ignorance in his witness"
+
+*****
 
