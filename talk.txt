@@ -1,16 +1,31 @@
-Sureties and Pledges in the Finnsruth Fíthail
+Sureties and Pledges in the Finnṡruth Fíthail
+
+* Introductory Remarks
+
+This talk will focus on a small amount of text contained with the
+legal dialogue Finnṡruth Fíthail.  As Fíthal is a rather unknown
+character, I will give some general introductions to him and his place
+in early Irish literature.  I will also discuss some textual notes on
+the Finnṡruth Fíthail.  Much of this talk is based on my beginning
+investigations of the text as I have not had the time to devote to it
+as I would have liked so much of this should be taken in the spirit of
+work-in-progress rather than a complete investigation.
 
 * Introduction to the Texts
 
 Fíthal is a mythological judge who is connected to the equally
 mythological king Cormac mac Airt.  He appears in many different
-places within early Irish literature.  For more information you can
+places within early Irish literature.  For instance, he appears in a
+Middle Irish poetic dialogue opposite Cormac mac Art (see my
+forthcoming edition).  In many ways, he is comparable with Morann and
+Caratina both of whom are more famous.  For more information you can
 consult my thesis, which is avaliable online at
-http://hdl.handle.net/1842/3320.  There are two legal texts which are
-attributed to Fíthal: Aí Emnach, which appears in _Forbuis Droma
-Damhghaire_ (thesis page 75) but which is now lost except for a few
-stray references and Finnsruth Fíthal, the focus of this particular
-talk.
+http://hdl.handle.net/1842/3320.
+
+There are two legal texts which are attributed to Fíthal: Aí Emnach,
+which appears in _Forbuis Droma Damhghaire_ (thesis page 75) but which
+is now lost except for a few stray references and Finnsruth Fíthal,
+the focus of this particular talk.
 
 The Finnsruth Fíthal is preserved in two copies.  The A text, which is
 in CIH 786.25--789.17, is the older of the two.  For instance, it
@@ -31,8 +46,18 @@ should/shall I judge".  Roland Smith in the early 20th century
 attempted to adduce this as a general rule in early Irish law but this
 is assuredly not the case as the formula is too general to be pressed
 into service in this way.  This dialogue structure is neatly
-complemented by Gúbretha Caratina, which also uses the dialogue format
-to achieve its purpose.
+complemented by Gúbretha Caratniad, which also uses the dialogue
+format to achieve its purpose.
+
+More generally, many early Irish legal texts have a question and
+answer format.  While the questioner and repondant are generally
+anonymous, the format is one that seemed to sit comfortably within the
+scholastic environment in medieval Ireland.  As others have said, much
+of what we have of the early Irish legal corpus are handbooks rather
+than law itself.  Here anonymous and legendary figures loom large to
+validate the law and instruct students in it within the context of
+universal wisdom literature (for more information see, Yocum
+http://openurl.ingenta.com/content?genre=article&issn=0081-6353&volume=46&issue=1&spage=39&epage=58).
 
 * Introduction Pledges and Sureties
 
@@ -55,7 +80,8 @@ Sureties and pledges are connected as they both attempt to ensure that
 contracts are executed as agreed.  Unlike a pledge which is an item, a
 surety puts themselves as liable for the contract if it is not
 executed.  Also, they are a feature of the legal proceedure as they
-are used to ensure the "paths of judgement".
+are used to ensure the "paths of judgement" (see Stacey
+http://lccn.loc.gov/93047677).
 
 * Pledges and Sureties in the Finnsruth Fíthail A Text
 
@@ -98,7 +124,7 @@ default on the contract.  After this it discusses what a surety can be
 made for.  For example, "the surety does not go but with hereditary
 property".  A commentary which follows this sentence states: "it is
 against immovables which are the sureties".  Essentially, a surety
-could only become a surety for immovables items.  This is a practical
+could only become a surety with immovables items.  This is a practical
 solution as moveable items could be taken away in the night such as
 cow herds and other smaller items.  Although, the proceedure for
 distraint depends upon moveable things such as cow herds.
@@ -107,7 +133,7 @@ The last paragraph before the acsephelus end of the manuscript
 describes the penalty for the heirs of a dead man who impung a
 contract on the land.  In normal cirucmstances of the death of a
 father, the sons divided the inherited land among themslves along the
-maxim: "the youngest divides and the oldest chooses".  This intimates
+maxim: "the youngest divides and the eldest chooses".  This intimates
 that contracts on land could outlive the person who made it.  This
 correlates nicely with the idea above that a surety goes for nine
 generations.  For instance, a contractor's sons plus the progeny of
@@ -127,8 +153,8 @@ itself.  It would seem that there was much more text avaliable to
 which a judge may have had access or had memorized.  The commentary
 itself is mostly in later Old Irish and early Middle Irish which is
 based on the fact that there are independant pronouns in use and
-petrified infix pronouns in certain verbs such as _atbaill_ and
-_atbeir_ "says" from as-beir "to say".
+petrified infix pronouns in certain verbs such as _atbeir_ "says" from
+as-beir "to say".
 
 Unfortunately, I haven't worked on this section as much as I have on
 the A text so this will necessarily be a more tentative assesment of
@@ -137,4 +163,8 @@ procedural point of view is that the commentary discusses _in fer
 amuigh_ "plaintiff" and _in fer tall_ "defendant".  It also has the
 defendant and plaintiff speak.  For instance, the defendant is made to
 say: _"tainic" ar se "⁊ rotroiscestar, ⁊ targus gill ⁊ airgi do ⁊
-nochar geib"_.
+nochar geib"_.  Other texts on legal proceedure such as Berrad
+Airechta also feature places where legally formulatic phrases are
+placed.  
+
+* Conclusion 
