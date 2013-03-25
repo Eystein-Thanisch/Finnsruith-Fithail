@@ -1,0 +1,137 @@
+Sureties and Pledges in the Finnsruth Fíthail
+
+* Introduction to the Texts
+
+Fíthal is a mythological judge who is connected to the equally
+mythological king Cormac mac Airt.  He appears in many different
+places within early Irish literature.  For more information you can
+consult my thesis, which is avaliable online at [insert url].  There
+are two legal texts which are attributed to Fíthal: Aí Emnach, which
+appears in _Forbuis Droma Damhghaire_ (thesis page 75) but which is
+now lost and Finnsruth Fíthal, the focus of this particular talk.
+
+The Finnsruth Fíthal is preserved in two copies.  The A text, which is
+in CIH 786.25--789.17, is the older of the two.  For instance, it
+preserves the verbal of necessity _finnta_ from the verb ro-fitir "to
+know". The A version preserves some of the original text.  However,
+the MS ascelphelus and the text is cut off after only a few pages.
+The B text in CIH 2131.1--2143.40 is more extensive of the two but it
+is later Old Irish and Middle Irish.  More to the point, the B version
+preserves only beginning sentences and contains much commentary rather
+than law itself.  However, as we will see, it preserves some
+interesting points of proceedure which the A version does not.
+
+The structure of the Finnsruth Fíthal is that of a dialogue between
+Fíthal and Socht, who would become Fíthal's son in later literature.
+In addition to the dialogue format, each topic covered by the text is
+introduced by Socht with the formula _co ber breith_ which means "how
+should/shall I judge".  Roland Smith in the early 20th century
+attempted to adduce this as a general rule in early Irish law but this
+is assuredly not the case as the formula is too general to be pressed
+into service in this way.  This dialogue structure is neatly
+complemented by Gúbretha Caratina, which also uses the dialogue format
+to achieve its purpose.
+
+* Introduction Pledges and Sureties
+
+Of course pledges and sureties are an integral part of any legal
+system.  Even in modern legal systems, sureties are used to obtain
+loans and other financial transactions.  Pledges are also a large part
+of the modern legal system.  For instance, when obtaining a mortgage
+(a gage being a form of pledge), potential borrowers usually must make
+a pledge of 10 to 20% of the mortgage's value.  This is also known as
+having "skin in the game" in City parlance.
+
+In early Irish law, pledges are items of value which are given to the
+counter-party in a contract to ensure the terms of the contract are
+faithfully caried out.  Pledges can be given on the behalf of another
+person.  These pledges accrue intrest while they are out of the
+possession of the pledgee.  If the pledge becomes forfeit the pledgee
+is entitled to compensation.
+
+Sureties and pledges are connected as they both attempt to ensure that
+contracts are executed as agreed.  Unlike a pledge which is an item, a
+surety puts themselves as liable for the contract if it is not
+executed.  Also, they are a feature of the legal proceedure as they
+are used to ensure the "paths of judgement".
+
+* Pledges and Sureties in the Finnsruth Fíthail A Text
+
+As I am still working on the edition of the Finnsruth Fíthail, I will
+focus on a couple of interesting facets of pledges and sureties as it
+shows some aspects of judicial proceedure.  However, first, the
+section which covers pledges is introduced as: _Co ber breith im
+techtae ngill_ "how should/shall I judge concerning lawful pledges" in
+the A text.  It then discusses pledges which cover situations like
+restitution and how do judge pledges which are securities.  These
+pledges are described as _imarcradho_ or "great" goods.  The
+intensifier _imar-_ is often, according to DIL, meaningless. In this
+situation, Fíthal advises that "judging security with that should be[
+]should be like which is belonging to the pledged object" or in other
+words, when judging a situation which arises out of a disputed pledge,
+the judge should adjudge compensation which is like in form to the
+object pledged in the first place.  This makes sense as pledges were
+often intimate items to the pledgee.  For instance a "work-bag" or an
+embroiderer's needles.  These objects needed to be replaced for the
+person to continue with their work or profession.  In the case of a
+judge it was five ounces of silver.
+
+In this section, the Finnsruth Fíthail also discusses sureties.  In
+this instance, "surety goes on heirs to the ninth generation".  This
+is a rather dramatic turn from pledges to surieties and how long they
+last.  Also, most contracts are not multi-generational in nature and
+it raises the question as to how long a contract can be made for.
+Also, while we are on the subject, a historian would be needed to
+validate a suriety which lasts this long.  In terms of court
+proceedure, a historian was a part of the prodceedings in the
+"side-court" of a full public court hearing (see Fergus Kelly's
+article on the setup of a full court hearing), which would generally
+be held at an oenach.  Thus, contracts could possibly be made such
+that a historian was necessary to validate any surety.
+
+The next paragraph of the A text covers the honour price which is due
+to a surety if the counter-party for which they went surety should
+default on the contract.  After this it discusses what a surety can be
+made for.  For example, "the surety does not go but with hereditary
+property".  A commentary which follows this sentence states: "it is
+against immovables which are the sureties".  Essentially, a surety
+could only become a surety for immovables items.  This is a practical
+solution as moveable items could be taken away in the night such as
+cow herds and other smaller items.  Although, the proceedure for
+distraint depends upon moveable things such as cow herds.
+
+The last paragraph before the acsephelus end of the manuscript
+describes the penalty for the heirs of a dead man who impung a
+contract on the land.  In normal cirucmstances of the death of a
+father, the sons divided the inherited land among themslves along the
+maxim: "the youngest divides and the oldest chooses".  This intimates
+that contracts on land could outlive the person who made it.  This
+correlates nicely with the idea above that a surety goes for nine
+generations.  For instance, a contractor's sons plus the progeny of
+his surety would be legally bound by the contract long after the
+contractor was dead.  I would speculate at this point that a contract
+would enjoin the heirs when disposing of their inheritance.
+
+* Pledges and Sureties in the Finnsruth Fíthail B Text
+
+As I said earlier, the B text is mostly commentary.  In this case the
+text is thus: CO BER BREITH IM TECHTA NGILL ⁊RL-.  As one will notice,
+the last part is marked as "⁊RL-".  This stands for _et reliqua_ "and
+the rest".  Basically, the line from Finnsruth Fíthail is used to
+remind the reader of the law before launching into an extended
+commentary.  "⁊RL-" is used several times within the commentary
+itself.  It would seem that there was much more text avaliable to
+which a judge may have had access or had memorized.  The commentary
+itself is mostly in later Old Irish and early Middle Irish which is
+based on the fact that there are independant pronouns in use and
+petrified infix pronouns in certain verbs such as _atbaill_ and
+_atbeir_ "says" from as-beir "to say".
+
+Unfortunately, I haven't worked on this section as much as I have on
+the A text so this will necessarily be a more tentative assesment of
+the text.  However, what immeidately comes into focus from a
+procedural point of view is that the commentary discusses _in fer
+amuigh_ "plaintiff" and _in fer tall_ "defendant".  It also has the
+defendant and plaintiff speak.  For instance, the defendant is made to
+say: _"tainic" ar se "⁊ rotroiscestar, ⁊ targus gill ⁊ airgi do ⁊
+nochar geib"_.
