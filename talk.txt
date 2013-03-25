@@ -5,10 +5,12 @@ Sureties and Pledges in the Finnsruth Fíthail
 Fíthal is a mythological judge who is connected to the equally
 mythological king Cormac mac Airt.  He appears in many different
 places within early Irish literature.  For more information you can
-consult my thesis, which is avaliable online at [insert url].  There
-are two legal texts which are attributed to Fíthal: Aí Emnach, which
-appears in _Forbuis Droma Damhghaire_ (thesis page 75) but which is
-now lost and Finnsruth Fíthal, the focus of this particular talk.
+consult my thesis, which is avaliable online at
+http://hdl.handle.net/1842/3320.  There are two legal texts which are
+attributed to Fíthal: Aí Emnach, which appears in _Forbuis Droma
+Damhghaire_ (thesis page 75) but which is now lost except for a few
+stray references and Finnsruth Fíthal, the focus of this particular
+talk.
 
 The Finnsruth Fíthal is preserved in two copies.  The A text, which is
 in CIH 786.25--789.17, is the older of the two.  For instance, it
@@ -36,11 +38,11 @@ to achieve its purpose.
 
 Of course pledges and sureties are an integral part of any legal
 system.  Even in modern legal systems, sureties are used to obtain
-loans and other financial transactions.  Pledges are also a large part
-of the modern legal system.  For instance, when obtaining a mortgage
-(a gage being a form of pledge), potential borrowers usually must make
-a pledge of 10 to 20% of the mortgage's value.  This is also known as
-having "skin in the game" in City parlance.
+loans and underpin other financial transactions.  Pledges are also a
+large part of the modern legal system.  For instance, when obtaining a
+mortgage (a gage being a form of pledge), potential borrowers usually
+must make a pledge of 10 to 20% of the mortgage's value.  This is also
+known as having "skin in the game" in City parlance.
 
 In early Irish law, pledges are items of value which are given to the
 counter-party in a contract to ensure the terms of the contract are
@@ -64,17 +66,17 @@ section which covers pledges is introduced as: _Co ber breith im
 techtae ngill_ "how should/shall I judge concerning lawful pledges" in
 the A text.  It then discusses pledges which cover situations like
 restitution and how do judge pledges which are securities.  These
-pledges are described as _imarcradho_ or "great" goods.  The
-intensifier _imar-_ is often, according to DIL, meaningless. In this
-situation, Fíthal advises that "judging security with that should be[
-]should be like which is belonging to the pledged object" or in other
-words, when judging a situation which arises out of a disputed pledge,
-the judge should adjudge compensation which is like in form to the
-object pledged in the first place.  This makes sense as pledges were
-often intimate items to the pledgee.  For instance a "work-bag" or an
-embroiderer's needles.  These objects needed to be replaced for the
-person to continue with their work or profession.  In the case of a
-judge it was five ounces of silver.
+pledges are described as _imarcradho_ or excess goods.  The
+intensifier _imar-_ is often, according to DIL (DIL I 126.052),
+meaningless. In this situation, Fíthal advises that "judging security
+with that should be[ ]should be like which is belonging to the pledged
+object" or in other words, when judging a situation which arises out
+of a disputed pledge, the judge should adjudge compensation which is
+like in form to the object pledged in the first place.  This makes
+sense as pledges were often intimate items to the pledgee.  For
+instance a "work-bag" or an embroiderer's needles.  These objects
+needed to be replaced for the person to continue with their work or
+profession.  In the case of a judge it was five ounces of silver.
 
 In this section, the Finnsruth Fíthail also discusses sureties.  In
 this instance, "surety goes on heirs to the ninth generation".  This
@@ -85,9 +87,10 @@ Also, while we are on the subject, a historian would be needed to
 validate a suriety which lasts this long.  In terms of court
 proceedure, a historian was a part of the prodceedings in the
 "side-court" of a full public court hearing (see Fergus Kelly's
-article on the setup of a full court hearing), which would generally
-be held at an oenach.  Thus, contracts could possibly be made such
-that a historian was necessary to validate any surety.
+article on the setup of a full court hearing,
+http://dx.doi.org/10.1484/J.Peri.3.129), which would generally be held
+at an oenach.  Thus, contracts could possibly be made such that a
+historian was necessary to validate any surety.
 
 The next paragraph of the A text covers the honour price which is due
 to a surety if the counter-party for which they went surety should
