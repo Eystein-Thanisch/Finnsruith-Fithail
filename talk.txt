@@ -23,9 +23,10 @@ consult my thesis, which is avaliable online at
 http://hdl.handle.net/1842/3320.
 
 There are two legal texts which are attributed to Fíthal: Aí Emnach,
-which appears in _Forbuis Droma Damhghaire_ (thesis page 75) but which
-is now lost except for a few stray references and Finnsruth Fíthal,
-the focus of this particular talk.
+which appears in _Forbuis Droma Damhghaire_
+(http://hdl.handle.net/1842/3320, p. 75) but which is now lost except
+for a few stray references and Finnsruth Fíthal, the focus of this
+particular talk.
 
 The Finnsruth Fíthal is preserved in two copies.  The A text, which is
 in CIH 786.25--789.17, is the older of the two.  For instance, it
@@ -53,6 +54,8 @@ validate the law and instruct students in it within the context of
 universal wisdom literature (for more information see, Yocum
 http://openurl.ingenta.com/content?genre=article&issn=0081-6353&volume=46&issue=1&spage=39&epage=58).
 
+[ schools of law in early ireland ]
+
 * Introduction Pledges and Sureties
 
 [Some sort of linking sentence? eg. 'FF contains some particularly interesting material on pledges and sureties'.]
@@ -76,6 +79,8 @@ Sureties and pledges are connected as they both attempt to ensure that
 contracts are executed as agreed.  Unlike a pledge which is an item, a
 surety [Make it clear that a surety is a person!] puts themselves as liable for the contract if it is not executed.  Also, they are a feature of the legal procedure as they are used to ensure the "paths of judgement" (see Stacey
 http://lccn.loc.gov/93047677).
+
+[ set out what better known texts say and what is different ]
 
 * Pledges and Sureties in the Finnsruth Fíthail A Text
 
@@ -128,6 +133,8 @@ describes the penalty for the heirs of a dead man who impugne a
 contract on the land.  In normal circumstances [Is this in early Irish Law generally or in FF?] of the death of a father, the sons divided the inherited land among themselves along the maxim: "the youngest divides and the eldest chooses".  This intimates that contracts on land could outlive the person who made them.  This correlates nicely with the idea above that a surety goes for nine generations.  For instance, a contractor's sons plus the progeny of
 his surety would be legally bound by the contract long after the contractor was dead.  I would speculate at this point that a contract would enjoin the heirs when disposing of their inheritance.
 
+[ contracts on clientship are on-going ]
+
 * Pledges and Sureties in the Finnsruth Fíthail B Text
 
 As I said earlier, the B text is mostly commentary.  In this case the
@@ -144,7 +151,11 @@ petrified infix pronouns in certain verbs such as _atbeir_ "says" from
 as-beir "to say".
 
 Unfortunately, I haven't worked on this section as much as I have on
+<<<<<<< Updated upstream
 the A text so this will necessarily be a more tentative assessment of
+=======
+the A text so this will necessarily be a more tentative assesment of
+>>>>>>> Stashed changes
 the text.  However, what immediately comes into focus from a
 procedural point of view is that the commentary discusses _in fer
 amuigh_ "plaintiff" and _in fer tall_ "defendant".  It also has the
