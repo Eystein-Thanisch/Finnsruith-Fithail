@@ -71,7 +71,8 @@ http://openurl.ingenta.com/content?genre=article&issn=0081-6353&volume=46&issue=
 
 * Introduction Pledges and Sureties
 
-[Some sort of linking sentence? eg. 'FF contains some particularly interesting material on pledges and sureties'.]
+[Some sort of linking sentence? eg. 'FF contains some particularly
+interesting material on pledges and sureties'.]
 
 Of course pledges and sureties are an integral part of any legal
 system.  Even in modern legal systems, sureties are used to obtain
@@ -180,9 +181,27 @@ procedural point of view is that the commentary discusses _in fer
 amuigh_ "plaintiff" and _in fer tall_ "defendant".  It also has the
 defendant and plaintiff speak.  For instance, the defendant is made to
 say: _"tainic" ar se "⁊ rotroiscestar, ⁊ targus gill ⁊ airgi do ⁊
-nochar geib"_.  Other texts on legal procedure such as Berrad
-Airechta also feature places where legally formulaic phrases are
-placed.  
+nochar geib"_ (roughtly translated: "he came", says he, "and he has
+been fasting, and I offered pledges and a herd of cattle(?) for it and
+which he did not take").  Other texts on legal procedure such as
+Berrad Airechta also feature places where legally formulaic phrases
+are placed.
+
+After the familar opening line from the A text, the B text launches
+into a discussion of a dispute concerning pledges.  It uses the
+terminology of "defendant" and "plaintiff."  More interestingly, the
+dispute seems to be between persons of unequal status.  This is
+brought home by the disucssion of the plaintiff fasting against the
+defendant.  The fasting proceedure was used generally when a person
+wished to bring a cast against a nemed (or exempt) person including:
+kings, poets, and the higher nobility.  Here it seems that the
+plaintiff obtained a hearing based on fasting against a nemed-class
+person to which that person assented.  In addition, it seems that the
+fasting proceedure was misused by the defendant as the plaintiff says
+he offered a pledge.  The argument goes back and forth but there seems
+to be duplication of content.  However, the outcomes seems to be that
+compensation was due to the defendant and that it was doubled in the
+case where the fasting proceedure was used inappropriately.
 
 * Conclusion 
 
