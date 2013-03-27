@@ -916,7 +916,7 @@ of a byre for it"
 
 inti loinges nad oigi ia rer di troscad in fer tall ⁊rl-
 
-loinges - "fleet, ships" or "invation by sea" or "banishment"
+loinges - 3rd rel sing. present of loingid "eats, consumes"
 
 nad - "which is not"
 
@@ -932,7 +932,7 @@ troscad - "fasting" DIL T 321.005
 
 in fer tall - "the defendant"
 
-"he who banishment which is not carried out carefully from a fasting
+"he who consumes which is not carried out carefully from a fasting
 the defendant et reliqua"
 
 *****
@@ -1059,4 +1059,81 @@ leo - "with them"
 "If so, the defendant says I offered pledges for it and I offered an
 abode with them"
 
+*****
 
+inti loinges ⁊rl- in fer tall;
+
+loinges - 3rd rel sing. present of loingid "eats, consumes"
+
+in fer tall - "plaintiff"
+
+"he who consumes et reliqua the plaintiff"
+
+*****
+
+.u.s uad ⁊ diablad fiach ⁊ eneclann.
+
+.u.s uad - "five sét for it"
+
+diablad - "double" (liability?) DIL D2 55.015
+
+fiach - "obligation/payment"
+
+eneclann - "compensation" DIL E 135.030
+
+"five sét for it and double payment and compensation"
+
+*****
+
+Masa cenn co memar ɫ eclasdacda co tuata ɫ indraic co hindraic, is
+leo-seic a denum co rangatar ⁊
+
+Masa - má + 3rd cop. "if it is"
+
+cenn co memar - "head with members"
+
+eclasdacda - eclastacda "pertaining to the church" (io-ia stem adj)
+
+co - "with"
+
+tuata - túatae "the laity" 
+
+indraic - "worthy, trustworthy, qualified" 
+
+is - cop.
+
+leo-seic - "by/with them" + side DIL S 142.067
+
+dénum - "doing" vn of do-gní
+
+co - "so that"
+
+rangatar - ??? later Irish probably from do-gní or téit
+
+"if it is a head with members or a church with laity or worth with
+worthy, which the doing is with them so that ??? and "
+
+*****
+
+cur troisectar ⁊ nach targus gill na hairgi doib,
+
+cur - "putting, contract"
+
+triosectar - 3rd sing. pass. of troiscid "he has been fasting"
+
+nach - "so that not"
+
+targus - 1st pret. sing. of do-fairget DIL D2 262.009 "I offered"
+
+gill - gen. of gell "pledge"
+
+airgi - "heard of cattle" áirge DIL A 208.022
+
+doib - "for them"
+
+"contract has been fasted and so I will not offer a pledge of cattle
+for them"
+
+*****
+
+inti loinges na oigi reir do troscad in fer tall
