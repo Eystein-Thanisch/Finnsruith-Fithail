@@ -3,24 +3,29 @@ Sureties and Pledges in the Finnṡruth Fíthail
 * Introductory Remarks
 
 This talk will focus on a small amount of text contained with the
-legal dialogue Finnṡruth Fíthail. [Perhaps explain here that Fíthal is a literary character and that the actual author(s) is/are unknown? This does not become clear to the uninitiated until much later...]  As Fíthal is a rather unknown
-character, I will give some general introductions to him and his place
-in early Irish literature.  I will also discuss some textual notes on
-the Finnṡruth Fíthail.  Much of this talk is based on my beginning
-investigations of the text as I have not had the time to devote to it
-as I would have liked.  Therefore, much of this should be taken in the
-spirit of work-in-progress rather than a complete investigation.
+legal dialogue Finnṡruth Fíthail. [Perhaps explain here that Fíthal is
+a literary character and that the actual author(s) is/are unknown?
+This does not become clear to the uninitiated until much later...]  As
+Fíthal is a rather unknown character, I will give some general
+introductions to him and his place in early Irish literature.  I will
+also discuss some textual notes on the Finnṡruth Fíthail.  Much of
+this talk is based on my beginning investigations of the text as I
+have not had the time to devote to it as I would have liked.
+Therefore, much of this should be taken in the spirit of
+work-in-progress rather than a complete investigation.
 
 * Introduction to the Texts
 
 Fíthal is a mythological judge who is connected to the equally
-mythological king Cormac mac Airt [What do you mean by mythological? Do you mean 'not real'? I feel like it has a more specific meaning, which you should expand upon if that is what you mean].  He appears in many different
-places within early Irish literature.  For instance, he appears in a
-Middle Irish poetic dialogue opposite Cormac mac Art (see my
-forthcoming edition).  In many ways, he is comparable with Morann and
-Caratina both of whom are more famous [In what way? In that he is paired with a king?].  For more information you can
-consult my thesis, which is avaliable online at
-http://hdl.handle.net/1842/3320.
+mythological king Cormac mac Airt [What do you mean by mythological?
+Do you mean 'not real'? I feel like it has a more specific meaning,
+which you should expand upon if that is what you mean].  He appears in
+many different places within early Irish literature.  For instance, he
+appears in a Middle Irish poetic dialogue opposite Cormac mac Art (see
+my forthcoming edition).  In many ways, he is comparable with Morann
+and Caratina both of whom are more famous [In what way? In that he is
+paired with a king?].  For more information you can consult my thesis,
+which is avaliable online at http://hdl.handle.net/1842/3320.
 
 There are two legal texts which are attributed to Fíthal: Aí Emnach,
 which appears in _Forbuis Droma Damhghaire_
@@ -31,7 +36,15 @@ particular talk.
 The Finnsruth Fíthal is preserved in two copies.  The A text, which is
 in CIH 786.25--789.17, is the older of the two.  For instance, it
 preserves the verbal of necessity _finnta_ from the verb ro-fitir "to
-know". The A version preserves some of the original text [What is the original text? How can you be confident that this is it?].  However, the MS is acephelous and the text is cut off after only a few pages. The B text in CIH 2131.1--2143.40 is more extensive of the two but it is later Old Irish and Middle Irish.  More to the point, the B version preserves only beginning sentences [What do you mean?] and contains much commentary rather than law itself.  However, as we will see, it preserves some interesting points of procedure which the A version does not.
+know". The A version preserves some of the original text [What is the
+original text? How can you be confident that this is it?].  However,
+the MS is acephelous and the text is cut off after only a few
+pages. The B text in CIH 2131.1--2143.40 is more extensive of the two
+but it is later Old Irish and Middle Irish.  More to the point, the B
+version preserves only beginning sentences [What do you mean?] and
+contains much commentary rather than law itself.  However, as we will
+see, it preserves some interesting points of procedure which the A
+version does not.
 
 The structure of the Finnsruth Fíthal is that of a dialogue between
 Fíthal and Socht, who would become Fíthal's son in later literature.
@@ -77,8 +90,10 @@ is entitled to compensation.
 
 Sureties and pledges are connected as they both attempt to ensure that
 contracts are executed as agreed.  Unlike a pledge which is an item, a
-surety [Make it clear that a surety is a person!] puts themselves as liable for the contract if it is not executed.  Also, they are a feature of the legal procedure as they are used to ensure the "paths of judgement" (see Stacey
-http://lccn.loc.gov/93047677).
+surety [Make it clear that a surety is a person!] puts themselves as
+liable for the contract if it is not executed.  Also, they are a
+feature of the legal procedure as they are used to ensure the "paths
+of judgement" (see Stacey http://lccn.loc.gov/93047677).
 
 [ set out what better known texts say and what is different ]
 
@@ -130,8 +145,16 @@ distraint depends upon moveable things such as cow herds.
 
 The last paragraph before the acephelus end of the manuscript
 describes the penalty for the heirs of a dead man who impugne a
-contract on the land.  In normal circumstances [Is this in early Irish Law generally or in FF?] of the death of a father, the sons divided the inherited land among themselves along the maxim: "the youngest divides and the eldest chooses".  This intimates that contracts on land could outlive the person who made them.  This correlates nicely with the idea above that a surety goes for nine generations.  For instance, a contractor's sons plus the progeny of
-his surety would be legally bound by the contract long after the contractor was dead.  I would speculate at this point that a contract would enjoin the heirs when disposing of their inheritance.
+contract on the land.  In normal circumstances [Is this in early Irish
+Law generally or in FF?] of the death of a father, the sons divided
+the inherited land among themselves along the maxim: "the youngest
+divides and the eldest chooses".  This intimates that contracts on
+land could outlive the person who made them.  This correlates nicely
+with the idea above that a surety goes for nine generations.  For
+instance, a contractor's sons plus the progeny of his surety would be
+legally bound by the contract long after the contractor was dead.  I
+would speculate at this point that a contract would enjoin the heirs
+when disposing of their inheritance.
 
 [ contracts on clientship are on-going ]
 
@@ -151,11 +174,7 @@ petrified infix pronouns in certain verbs such as _atbeir_ "says" from
 as-beir "to say".
 
 Unfortunately, I haven't worked on this section as much as I have on
-<<<<<<< Updated upstream
 the A text so this will necessarily be a more tentative assessment of
-=======
-the A text so this will necessarily be a more tentative assesment of
->>>>>>> Stashed changes
 the text.  However, what immediately comes into focus from a
 procedural point of view is that the commentary discusses _in fer
 amuigh_ "plaintiff" and _in fer tall_ "defendant".  It also has the
