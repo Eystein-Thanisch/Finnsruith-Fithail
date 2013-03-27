@@ -55,7 +55,7 @@ attempted to adduce this as a general rule in early Irish law but this
 is assuredly not the case as the formula is too general to be pressed
 into service in this way (see Smith,
 http://www.vanhamel.nl/wiki/Smith_1931a). This dialogue structure is
-neatly complemented by Gúbretha Caratniad, which also uses the
+neatly complemented by Gúbretha Caratniad and , which also uses the
 dialogue format to achieve its purpose.
 
 More generally, many early Irish legal texts have a question and
@@ -114,19 +114,26 @@ of judgement" (see Stacey http://lccn.loc.gov/93047677).
 
 As I am still working on the edition of the Finnṡruth Fíthail, I will
 focus on a couple of interesting facets of pledges and sureties as it
-shows some aspects of judicial procedure.  However, first, the
-section which covers pledges is introduced as: _Co ber breith im
-techtae ngill_ "how should/shall I judge concerning lawful pledges" in
-the A text.  It then discusses pledges which cover situations like
-restitution and how to judge pledges which are securities.  These
-pledges are described as _imarcradho_ or excess goods.  The
-intensifier _imar-_ is often, according to DIL (DIL I 126.052),
-meaningless. In this situation, Fíthal advises that "judging security
-with that should be[ ]should be like which is belonging to the pledged
-object" or in other words, when judging a situation which arises out
-of a disputed pledge, the judge should adjudge compensation which is
-like in form to the object pledged in the first place.  This makes
-sense as pledges were often intimate items to the pledgee.  For
+shows some aspects of judicial procedure.  A notes about the
+provenance of this text.  According to the manuscript catalogue, TCD
+MS 1337 was purchased by Edward Lhwyd from Agnew who is described as
+the hereditary bard of O'Niell of Clannaboy in northern Ulster (see
+http://lccn.loc.gov/22025414, pg. 140).  It is a miscelleny containing
+both religious and secular material, including sections from Crith
+Gablach.
+
+The section which covers pledges is introduced as: _Co
+ber breith im techtae ngill_ "how should/shall I judge concerning
+lawful pledges" in the A text.  It then discusses pledges which cover
+situations like restitution and how to judge pledges which are
+securities.  These pledges are described as _imarcradho_ or excess
+goods.  The intensifier _imar-_ is often, according to DIL (DIL I
+126.052), meaningless. In this situation, Fíthal advises that "judging
+security with that should be[ ]should be like which is belonging to
+the pledged object" or in other words, when judging a situation which
+arises out of a disputed pledge, the judge should adjudge compensation
+which is like in form to the object pledged in the first place.  This
+makes sense as pledges were often intimate items to the pledgee.  For
 instance a "work-bag" or an embroiderer's needles.  These objects
 needed to be replaced for the person to continue with their work or
 profession.  In the case of a judge it was five ounces of silver.
@@ -172,6 +179,10 @@ their inheritance.
 [ contracts on clientship are on-going ]
 
 * Pledges and Sureties in the Finnṡruth Fíthail B Text
+
+Again a note on the MS provenance, the manuscript catalogue notes that
+the manscript was written for the Mac Aedgáin law school.
+Unfortunately, however, not much more is known about this MS.
 
 As I said earlier, the B text is mostly commentary.  In this case the
 text is thus: CO BER BREITH IM TECHTA NGILL ⁊RL-.  As one will notice,
