@@ -869,7 +869,8 @@ atbeir in fer tall - "the defendant says:"
 
 tainic - "he comes" Mid Ir. 3rd sing. pret. 
 
-rotroiscestar - ?
+rotroiscestar - ? from troscad? (thanks to Eystein!) 3rd
+sing. pass. of troiscid "he has been fasting"
 
 targus - 1st pret. sing. of do-fairget DIL D2 262.009 "I offered"
 
@@ -883,8 +884,8 @@ nochar - nachar from nach
 
 geib - from gaib? 3rd sing. pres. or imperative
 
-"he comes", says he, " and ?, and I offered a pledge, and a byre for
-it and he did not take,"
+"he came", says he, " and he has been fasting, and I offered a pledge,
+and a byre for it and he did not take,"
 
 *****
 
@@ -929,10 +930,10 @@ di - "from"
 
 troscad - "fasting" DIL T 321.005
 
-in fer tall - "the plaintiff"
+in fer tall - "the defendant"
 
 "he who banishment which is not carried out caefully from a fasting
-the plaintiff et reliqua"
+the defendant et reliqua"
 
 *****
 
@@ -972,4 +973,6 @@ gab - from gaibid 3rd sing. pret. active "he has not taken"
 
 *****
 
+⁊ is uime nar gab iat uair na targus aiti leo,
 
+is - cop.
