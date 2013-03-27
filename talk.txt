@@ -182,7 +182,8 @@ their inheritance.
 
 Again a note on the MS provenance, the manuscript catalogue notes that
 the manscript was written for the Mac Aedgáin law school.
-Unfortunately, however, not much more is known about this MS.
+Unfortunately, however, not much more is known about this MS (see
+http://lccn.loc.gov/22025414, pg. 249).
 
 As I said earlier, the B text is mostly commentary.  In this case the
 text is thus: CO BER BREITH IM TECHTA NGILL ⁊RL-.  As one will notice,
