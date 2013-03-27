@@ -932,7 +932,7 @@ troscad - "fasting" DIL T 321.005
 
 in fer tall - "the defendant"
 
-"he who banishment which is not carried out caefully from a fasting
+"he who banishment which is not carried out carefully from a fasting
 the defendant et reliqua"
 
 *****
@@ -976,3 +976,87 @@ gab - from gaibid 3rd sing. pret. active "he has not taken"
 ⁊ is uime nar gab iat uair na targus aiti leo,
 
 is - cop.
+
+uime - "about him/it"?
+
+nar - neg. rel. "which is not" + ro
+
+gab - "taken" 3rd pret. act. of gaibid
+
+iat - "they" or "land"? (from íath)
+
+uair - "formerly" adv. use of uair
+
+na - neg. rel. "which is not"
+
+targus - targus - 1st pret. sing. of do-fairget DIL D2 262.009 "I
+offered"
+
+aiti - more commonly "fosterparents" from aite but could also be
+"abode/dwelling"
+
+leo - "by with them"
+
+"and it is about him which he had not formerly taken that I had not
+offered abode with them"
+
+*****
+
+is lesin fer tall a sena nar cuindged aiti air.
+
+is - "which is"
+
+lesin - "by the"
+
+fer tall - "defendant"
+
+a sena - vn of sénaid "act of denying"
+
+nar - neg. rel "which is not"
+
+cuindged - 3rd per. imperv. of con-dïeig "let him ask" however
+           follwoing nar which should have a conjunct form possibly
+           -cuinget?
+
+aiti - "an abode" (more commonly "fosterparents")
+
+air - "on him/it"
+
+"which is by the defendant the dying that he does not demand an abode on it"
+
+*****
+
+inti trosices tar toircsin a rere in fer amuig; .u.s uad ⁊rl-
+
+inti trosices tar toircsin a rere - "he who fasts although
+satisfaction has been offered" see DIL T 316.018
+
+in fer amuig - "the plaintiff"
+
+"he who fasts although satisfaction has been offered the plaintiff;
+five sét about it etc."
+
+*****
+
+Mas ed atbeir in fer tall targus gill do ⁊ targus aiti leo,
+
+Mas - looks like "massu ed" "if so"
+
+atbeir - "says"
+
+in fer tall - "the defendant"
+
+targus - 1st pret. sing. of do-fairget DIL D2 262.009 "I offered"
+
+gill - "pledges"
+
+do - "for it"
+
+aiti - "abode"
+
+leo - "with them"
+
+"If so, the defendant says I offered pledges for it and I offered an
+abode with them"
+
+
