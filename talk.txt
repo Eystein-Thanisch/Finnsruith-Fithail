@@ -53,9 +53,10 @@ introduced by Socht with the formula _co ber breith_ which means "how
 should/shall I judge".  Roland Smith, in the early 20th century,
 attempted to adduce this as a general rule in early Irish law but this
 is assuredly not the case as the formula is too general to be pressed
-into service in this way. This dialogue structure is neatly
-complemented by Gúbretha Caratniad, which also uses the dialogue
-format to achieve its purpose.
+into service in this way (see Smith,
+http://www.vanhamel.nl/wiki/Smith_1931a). This dialogue structure is
+neatly complemented by Gúbretha Caratniad, which also uses the
+dialogue format to achieve its purpose.
 
 More generally, many early Irish legal texts have a question and
 answer format.  While the questioner and respondent are generally
@@ -67,12 +68,23 @@ validate the law and instruct students in it within the context of
 universal wisdom literature (for more information see, Yocum
 http://openurl.ingenta.com/content?genre=article&issn=0081-6353&volume=46&issue=1&spage=39&epage=58).
 
+As for the topics covered, six of the questions ask about domestic
+arrangements, which would have been keen points of concern in a rural
+community. Four of the questions are concerned with territories and
+inter-territorial strife which, while not of such immediate concern in
+daily life was of frequent occurrence and affected everybody. Three of
+the questions are about contracts and contract law, which was another
+aspect of community life that often gave rise to litigation and the
+need for arbitration. Another three deal with the status of persons;
+the relevance of this topic to the circumstances of every family in
+the _túath_ would have been obvious.
+
 [ schools of law in early ireland ]
 
 * Introduction Pledges and Sureties
 
-[Some sort of linking sentence? eg. 'FF contains some particularly
-interesting material on pledges and sureties'.]
+For this particular talk, I will cover one of the three sections on
+contracts.  In this case pledges and surieties.
 
 Of course pledges and sureties are an integral part of any legal
 system.  Even in modern legal systems, sureties are used to obtain
@@ -146,16 +158,16 @@ distraint depends upon moveable things such as cow herds.
 
 The last paragraph before the acephelus end of the manuscript
 describes the penalty for the heirs of a dead man who impugne a
-contract on the land.  In normal circumstances [Is this in early Irish
-Law generally or in FF?] of the death of a father, the sons divided
-the inherited land among themselves along the maxim: "the youngest
-divides and the eldest chooses".  This intimates that contracts on
-land could outlive the person who made them.  This correlates nicely
-with the idea above that a surety goes for nine generations.  For
-instance, a contractor's sons plus the progeny of his surety would be
-legally bound by the contract long after the contractor was dead.  I
-would speculate at this point that a contract would enjoin the heirs
-when disposing of their inheritance.
+contract on the land.  In normal circumstances in early Irish law
+generally on the death of a father, the sons divided the inherited
+land among themselves along the maxim: "the youngest divides and the
+eldest chooses".  This intimates that contracts on land could outlive
+the person who made them.  This correlates nicely with the idea above
+that a surety goes for nine generations.  For instance, a contractor's
+sons plus the progeny of his surety would be legally bound by the
+contract long after the contractor was dead.  I would speculate at
+this point that a contract would enjoin the heirs when disposing of
+their inheritance.
 
 [ contracts on clientship are on-going ]
 
@@ -191,17 +203,18 @@ After the familar opening line from the A text, the B text launches
 into a discussion of a dispute concerning pledges.  It uses the
 terminology of "defendant" and "plaintiff."  More interestingly, the
 dispute seems to be between persons of unequal status.  This is
-brought home by the disucssion of the plaintiff fasting against the
+brought home by the discussion of the plaintiff fasting against the
 defendant.  The fasting proceedure was used generally when a person
 wished to bring a cast against a nemed (or exempt) person including:
-kings, poets, and the higher nobility.  Here it seems that the
-plaintiff obtained a hearing based on fasting against a nemed-class
-person to which that person assented.  In addition, it seems that the
-fasting proceedure was misused by the defendant as the plaintiff says
-he offered a pledge.  The argument goes back and forth but there seems
-to be duplication of content.  However, the outcomes seems to be that
-compensation was due to the defendant and that it was doubled in the
-case where the fasting proceedure was used inappropriately.
+kings, poets, and the higher levels of nobility.  Here it seems that
+the plaintiff obtained a hearing based on fasting against a
+nemed-class person to which that person assented.  In addition, it
+seems that the fasting proceedure was misused by the defendant as the
+plaintiff says he offered a pledge.  The argument goes back and forth
+but there seems to be duplication of content.  However, the outcomes
+seems to be that compensation was due to the defendant and that it was
+doubled in the case where the fasting proceedure was used
+inappropriately.
 
 * Conclusion 
 
