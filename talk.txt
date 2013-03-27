@@ -30,10 +30,10 @@ which is avaliable online at http://hdl.handle.net/1842/3320.
 There are two legal texts which are attributed to Fíthal: Aí Emnach,
 which appears in _Forbuis Droma Damhghaire_
 (http://hdl.handle.net/1842/3320, p. 75) but which is now lost except
-for a few stray references and Finnsruth Fíthal, the focus of this
+for a few stray references and Finnṡruth Fíthail, the focus of this
 particular talk.
 
-The Finnsruth Fíthal is preserved in two copies.  The A text, which is
+The Finnṡruth Fíthail is preserved in two copies.  The A text, which is
 in CIH 786.25--789.17, is the older of the two.  For instance, it
 preserves the verbal of necessity _finnta_ from the verb ro-fitir "to
 know". The A version preserves some of the original text [What is the
@@ -46,7 +46,7 @@ contains much commentary rather than law itself.  However, as we will
 see, it preserves some interesting points of procedure which the A
 version does not.
 
-The structure of the Finnsruth Fíthal is that of a dialogue between
+The structure of the Finnṡruth Fíthail is that of a dialogue between
 Fíthal and Socht, who would become Fíthal's son in later literature.
 In addition to the dialogue format, each topic covered by the text is
 introduced by Socht with the formula _co ber breith_ which means "how
@@ -98,9 +98,9 @@ of judgement" (see Stacey http://lccn.loc.gov/93047677).
 
 [ set out what better known texts say and what is different ]
 
-* Pledges and Sureties in the Finnsruth Fíthail A Text
+* Pledges and Sureties in the Finnṡruth Fíthail A Text
 
-As I am still working on the edition of the Finnsruth Fíthail, I will
+As I am still working on the edition of the Finnṡruth Fíthail, I will
 focus on a couple of interesting facets of pledges and sureties as it
 shows some aspects of judicial procedure.  However, first, the
 section which covers pledges is introduced as: _Co ber breith im
@@ -119,7 +119,7 @@ instance a "work-bag" or an embroiderer's needles.  These objects
 needed to be replaced for the person to continue with their work or
 profession.  In the case of a judge it was five ounces of silver.
 
-In this section, the Finnsruth Fíthail also discusses sureties.  In
+In this section, the Finnṡruth Fíthail also discusses sureties.  In
 this instance, "surety goes on heirs to the ninth generation".  This
 is a rather dramatic turn from pledges to sureties and how long they
 last.  Also, most contracts are not multi-generational in nature and
@@ -159,12 +159,12 @@ when disposing of their inheritance.
 
 [ contracts on clientship are on-going ]
 
-* Pledges and Sureties in the Finnsruth Fíthail B Text
+* Pledges and Sureties in the Finnṡruth Fíthail B Text
 
 As I said earlier, the B text is mostly commentary.  In this case the
 text is thus: CO BER BREITH IM TECHTA NGILL ⁊RL-.  As one will notice,
 the last part is marked as "⁊RL-".  This stands for _et reliqua_ "and
-the rest".  Basically, the line from Finnsruth Fíthail is used to
+the rest".  Basically, the line from Finnṡruth Fíthail is used to
 remind the reader of the law before launching into an extended
 commentary.  "⁊RL-" is used several times within the commentary
 itself.  It would seem that there was much more text available to
