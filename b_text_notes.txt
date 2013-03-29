@@ -1172,7 +1172,7 @@ feich - gen. sing. of fíach "obligation/payment"
 
 is - cop.
 
-cotruma - co "with" + "weight"
+cotruma - from cutrummae "equal weight or amount" DIL C 638.016
 
 riu - from friu "against them" (Early Mod.)
 
@@ -1201,4 +1201,29 @@ dia - "if/when"
 
 breith - "being"
 
-aisec - 
+aisec - "act of restoring, giving back" DIL A 246.063
+
+na - art.
+
+urana - ???
+
+"and which is a bond his restitution, and damage from it when being,
+the giving back of the ???"
+
+*****
+
+⁊ in cutruma ina fiachaib, ⁊ tuilled risin mbeg;
+
+in cutruma - from cutrummae "equal weight or amount" DIL C 638.016
+
+ina - "in his"
+
+fiachaib - "obligations" dat. pl.
+
+tuilled - "increasing, adding to" DIL T 361.006
+
+risin - "before the?" re + in?
+
+beg- "small (thing?)"
+
+"and the 
