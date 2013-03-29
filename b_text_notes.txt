@@ -1174,6 +1174,31 @@ is - cop.
 
 cotruma - co "with" + "weight"
 
-riu - 
+riu - from friu "against them" (Early Mod.)
 
+isli - ísle "lowless, humility" DIL I 322.038
 
+andait - ??? looks like 3rd pl. of a weak verb but nothing in DIL
+
+*****
+
+⁊ ata fonaidm a taisic, ⁊ difoichid de dia breith, aisec na hurana,
+
+ata - rel. substative "which is"
+
+fonaidm - "pledge, bond" DIL F 287.061
+
+a - "his"
+
+taisic - from taisecc "restoring, restitution" DIL T 53.055
+
+difoichid - from díḟoichid "legal term of damage due to accident" DIL
+D2 87.004
+
+de - "from it/him"
+
+dia - "if/when"
+
+breith - "being"
+
+aisec - 
