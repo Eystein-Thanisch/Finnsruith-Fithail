@@ -1226,4 +1226,83 @@ risin - "before the?" re + in?
 
 beg- "small (thing?)"
 
-"and the 
+"and the equal amolunt in his obligations, and increasing before the small thing."
+
+*****
+
+mani fuil fonaidm a taisic itir, is dilsi na hurana,
+
+mani - "if not"
+
+fuil - "is" 
+
+fonaidm - "pledge, bond" DIL F 287.061
+
+a - "his"
+
+taisic - from taisecc "restoring, restitution" DIL T 53.055
+
+itir - "between it" from eter
+
+is - "which is"
+
+dilsi - "forfited" 
+
+na - art.
+
+urana - ???
+
+"if a bond is not his restitution between it, which it is forfited of the ???"
+
+*****
+
+⁊ in cutruma ina fiachaib, ⁊ tuilled risin | mbeg.
+
+"and the equal amount in his obligations, and an increaing before the small thing."
+
+*****
+
+Masa faill imcometa rosfuc, ce beth fonaidm a taisic cinco raib,
+
+masa - 3rd sing. cop "if it is"
+
+faill - neglect
+
+imcometa - ??
+
+rosfuc - ro + class A infix fem + -fuc
+
+ce - "although"
+
+beth -  3rd subj. sing. of at-tá
+
+fonaidm - "pledge, bond" DIL F 287.061
+
+a - "his"
+
+taisic - from taisecc "restoring, restitution" DIL T 53.055
+
+cinco - cenco "though ... not" DIL C 112.001
+
+raib - "it was" late subtanstive
+
+"if it is neglect ???, although a bond maybe hia resitution though it is not,"
+
+*****
+
+aisec na hurana, ⁊ in cutruma ina fiachaib, ⁊ fuilled risin mbeg.
+
+aisec - "act of restoring, giving back" DIL A 246.063
+
+cutruma - from cutrummae "equal weight or amount" DIL C 638.016
+
+fiach - "obligation/payment"
+
+fuilled - "adding to, supplementing"
+
+risin - "before the?" re + in?
+
+mbeg - "small"
+
+"the giving back of the ???, and the equal amount in his obligations,
+and supplementing before the small (thing?)"
