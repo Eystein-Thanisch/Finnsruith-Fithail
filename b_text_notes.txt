@@ -1393,7 +1393,7 @@ tara - prep + 3rd sing. "over, across his"
 
 esi - "after" occationally "notwithstanding"
 
-"tara esi" -- "following after see DIL E 92.015
+"tara esi" -- "following after" see DIL E 92.015
 
 "not all pledges ??? with a pledge repository, and it is not it that
 pledge repository ???, which of obligation following after"
@@ -1487,4 +1487,55 @@ do bidbiad - "defendant"
 "if it is an uncertain damage ???", half the Tuesdays for liabilities
 and half the obligations of a plaintiff"
 
+*****
 
+Masa galar tecmaisech rucustar he, islan gin ni donti i raibi laim
+
+tecmaisech - "accidental" DIL T 107.013
+
+islan - is slan
+
+ni - "thing"
+
+donti - do + int-í ? "for the aformentioned"
+
+i - prep. "in"
+
+raibi - from at-tá
+
+laim - "hand"
+
+"if the damage is accidental ???, which is safe without a thing for
+the aforementioned in was a hand.
+
+*****
+
+Mas a cinaid fir bunaid tallad in gell, is feich tara heisi
+
+a - "what" ?
+
+cinaid - "liability"
+
+fir - gen. "of a man"
+
+bunaid - "original stock, family stock" DIL B 242.054
+
+tallad - from tellad DIL T 141.037 "taking away, depriving"
+
+"if what is a liability of an owner depriving the pledge, which is an
+obligation following after"
+
+*****
+
+Munub i cinaid fir bunaid tallad itir he, is eneclann ⁊ aithgin donti
+i raibi laim, ⁊ eneclann ⁊ diri ⁊ aithgin d'fir bunaid
+
+munub - from munab má + neg. 3rd sing. "if it is not"
+
+itir - "between"
+
+eneclann - "compensation"
+
+aithgin - "restitution"
+
+do + int-í ? "for the aformentioned"
