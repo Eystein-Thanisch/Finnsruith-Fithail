@@ -3,15 +3,14 @@ Sureties and Pledges in the Finnṡruth Fíthail
 * Introductory Remarks
 
 This talk will focus on a small amount of text contained with the
-legal dialogue Finnṡruth Fíthail. [Perhaps explain here that Fíthal is
-a literary character and that the actual author(s) is/are unknown?
-This does not become clear to the uninitiated until much later...]  As
-Fíthal is a rather unknown character, I will give some general
-introductions to him and his place in early Irish literature.  I will
-also discuss some textual notes on the Finnṡruth Fíthail.  Much of
-this talk is based on my beginning investigations of the text as I
-have not had the time to devote to it as I would have liked.
-Therefore, much of this should be taken in the spirit of
+legal dialogue Finnṡruth Fíthail, which records a dialogue between
+Fíthal, a legendary judge and his son Socht.  The author of the text
+is currently unknown.  As Fíthal is a rather obscure character, I will
+give some general introductions to him and his place in early Irish
+literature.  I will also discuss some textual notes on the Finnṡruth
+Fíthail.  Much of this talk is based on my beginning investigations of
+the text as I have not had the time to devote to it as I would have
+liked.  Therefore, much of this should be taken in the spirit of
 work-in-progress rather than a complete investigation.
 
 * Introduction to the Texts
@@ -21,10 +20,10 @@ mythological king Cormac mac Airt [What do you mean by mythological?
 Do you mean 'not real'? I feel like it has a more specific meaning,
 which you should expand upon if that is what you mean].  He appears in
 many different places within early Irish literature.  For instance, he
-appears in a Middle Irish poetic dialogue opposite Cormac mac Art (see
-my forthcoming edition).  In many ways, he is comparable with Morann
-and Caratina both of whom are more famous [In what way? In that he is
-paired with a king?].  For more information you can consult my thesis,
+appears in a Middle Irish poetic dialogue opposite Cormac mac Airt
+(see my forthcoming edition).  In many ways, he is comparable with
+Morann and Caratina both of whom are more well-known in modern
+academic circles.  For more information you can consult my thesis,
 which is avaliable online at http://hdl.handle.net/1842/3320.
 
 There are two legal texts which are attributed to Fíthal: Aí Emnach,
@@ -33,16 +32,16 @@ which appears in _Forbuis Droma Damhghaire_
 for a few stray references and Finnṡruth Fíthail, the focus of this
 particular talk.
 
-The Finnṡruth Fíthail is preserved in two copies.  The A text, which is
-in CIH 786.25--789.17, is the older of the two.  For instance, it
+The Finnṡruth Fíthail is preserved in two copies.  The A text, which
+is in CIH 786.25--789.17, is the older of the two.  For instance, it
 preserves the verbal of necessity _finnta_ from the verb ro-fitir "to
 know". The A version preserves some of the original text [What is the
 original text? How can you be confident that this is it?].  However,
 the MS is acephelous and the text is cut off after only a few
 pages. The B text in CIH 2131.1--2143.40 is more extensive of the two
 but it is later Old Irish and Middle Irish.  More to the point, the B
-version preserves only beginning sentences [What do you mean?] and
-contains much commentary rather than law itself.  However, as we will
+version preserves only block capital copies of the questions asked
+which is then followed by extensive commmentary.  However, as we will
 see, it preserves some interesting points of procedure which the A
 version does not.
 
@@ -55,8 +54,8 @@ attempted to adduce this as a general rule in early Irish law but this
 is assuredly not the case as the formula is too general to be pressed
 into service in this way (see Smith,
 http://www.vanhamel.nl/wiki/Smith_1931a). This dialogue structure is
-neatly complemented by Gúbretha Caratniad and , which also uses the
-dialogue format to achieve its purpose.
+neatly complemented by Gúbretha Caratniad and Audacht Morainn, which
+also uses the dialogue format to achieve its purpose.
 
 More generally, many early Irish legal texts have a question and
 answer format.  While the questioner and respondent are generally
@@ -88,11 +87,13 @@ contracts.  In this case pledges and surieties.
 
 Of course pledges and sureties are an integral part of any legal
 system.  Even in modern legal systems, sureties are used to obtain
-loans and underpin other financial transactions.  Pledges are also a
-large part of the modern legal system.  For instance, when obtaining a
-mortgage (a gage being a form of pledge), potential borrowers usually
-must make a pledge of 10 to 20% of the mortgage's value.  This is also
-known as having "skin in the game" in City parlance.
+loans and underpin other financial transactions, usually by
+counter-signing a promissory note or some other legal instrument.
+Pledges are also a large part of the modern legal system.  For
+instance, when obtaining a mortgage (a gage being a form of pledge),
+potential borrowers usually must make a pledge of 10% to 20% of the
+mortgage's value.  This is also known as having "skin in the game" in
+City parlance.
 
 In early Irish law, pledges are items of value which are given to the
 counter-party in a contract to ensure the terms of the contract are
@@ -102,11 +103,12 @@ possession of the pledgee.  If the pledge becomes forfeit the pledgee
 is entitled to compensation.
 
 Sureties and pledges are connected as they both attempt to ensure that
-contracts are executed as agreed.  Unlike a pledge which is an item, a
-surety [Make it clear that a surety is a person!] puts themselves as
-liable for the contract if it is not executed.  Also, they are a
-feature of the legal procedure as they are used to ensure the "paths
-of judgement" (see Stacey http://lccn.loc.gov/93047677).
+contracts are executed as agreed (for sureities, McLeod, pp. 16-21,
+http://www.worldcat.org/oclc/27258857).  Unlike a pledge which is an
+item, a surety, a person or persons, puts themselves as liable
+for the contract if it is not executed.  Also, they are a feature of
+the legal procedure as they are used to ensure the "paths of
+judgement" (see Stacey http://lccn.loc.gov/93047677).
 
 [ set out what better known texts say and what is different ]
 
@@ -122,18 +124,18 @@ http://lccn.loc.gov/22025414, pg. 140).  It is a miscelleny containing
 both religious and secular material, including sections from Crith
 Gablach.
 
-The section which covers pledges is introduced as: _Co
-ber breith im techtae ngill_ "how should/shall I judge concerning
-lawful pledges" in the A text.  It then discusses pledges which cover
-situations like restitution and how to judge pledges which are
-securities.  These pledges are described as _imarcradho_ or excess
-goods.  The intensifier _imar-_ is often, according to DIL (DIL I
-126.052), meaningless. In this situation, Fíthal advises that "judging
-security with that should be[ ]should be like which is belonging to
-the pledged object" or in other words, when judging a situation which
-arises out of a disputed pledge, the judge should adjudge compensation
-which is like in form to the object pledged in the first place.  This
-makes sense as pledges were often intimate items to the pledgee.  For
+The section which covers pledges is introduced as: _Co ber breith im
+techtae ngill_ "how should/shall I judge concerning lawful pledges" in
+the A text.  It then discusses pledges which cover situations like
+restitution and how to judge pledges which are securities.  These
+pledges are described as _imarcradho_ or excess goods.  The
+intensifier _imar-_ is often, according to DIL (DIL I 126.052),
+meaningless. In this situation, Fíthal advises that "judging security
+with that should be[ ]should be like which is belonging to the pledged
+object" or in other words, when judging a situation which arises out
+of a disputed pledge, the judge should adjudge compensation which is
+like in form to the object pledged in the first instance.  This makes
+sense as pledges were often intimate items to the pledgee.  For
 instance a "work-bag" or an embroiderer's needles.  These objects
 needed to be replaced for the person to continue with their work or
 profession.  In the case of a judge it was five ounces of silver.
@@ -168,15 +170,22 @@ describes the penalty for the heirs of a dead man who impugne a
 contract on the land.  In normal circumstances in early Irish law
 generally on the death of a father, the sons divided the inherited
 land among themselves along the maxim: "the youngest divides and the
-eldest chooses".  This intimates that contracts on land could outlive
-the person who made them.  This correlates nicely with the idea above
-that a surety goes for nine generations.  For instance, a contractor's
-sons plus the progeny of his surety would be legally bound by the
-contract long after the contractor was dead.  I would speculate at
-this point that a contract would enjoin the heirs when disposing of
-their inheritance.
+eldest chooses" (see Kelly, pg. 102, http://lccn.loc.gov/89151457).
+This intimates that contracts on land could outlive the person who
+made them.  This correlates nicely with the idea above that a surety
+goes for nine generations.  For instance, a contractor's sons plus the
+progeny of his surety would be legally bound by the contract long
+after the contractor was dead.  I would speculate at this point that a
+contract would enjoin the heirs when disposing of their inheritance.
 
-[ contracts on clientship are on-going ]
+A particular feature of early Irish law was the clientship contract
+(see Kelly, pp. 29-33, http://lccn.loc.gov/89151457).  These contracts
+were between people of different social classes and provided the means
+by which a person lower social class could gain both materially and
+socially.  Although, this was not a one sided transaction as it would
+also enhance the socially superior person in prestige and they gain
+rent in various forms. These contracts were generally continuing until
+the death of the client or unless the client found a new lord.  
 
 * Pledges and Sureties in the Finnṡruth Fíthail B Text
 
@@ -217,7 +226,7 @@ terminology of "defendant" and "plaintiff."  More interestingly, the
 dispute seems to be between persons of unequal status.  This is
 brought home by the discussion of the plaintiff fasting against the
 defendant.  The fasting proceedure was used generally when a person
-wished to bring a cast against a nemed (or exempt) person including:
+wished to bring a case against a nemed (or exempt) person including:
 kings, poets, and the higher levels of nobility.  Here it seems that
 the plaintiff obtained a hearing based on fasting against a
 nemed-class person to which that person assented.  In addition, it
