@@ -78,7 +78,13 @@ need for arbitration. Another three deal with the status of persons;
 the relevance of this topic to the circumstances of every family in
 the _túath_ would have been obvious.
 
-[ schools of law in early ireland ]
+Scholars generally postulate two legal schools in the Old Irish period
+(see Kelly, pp. 242-248, http://lccn.loc.gov/89151457).  The first is
+the _Senchas Már_ school which compiled the great compendium of early
+Irish law.  The other, according to Binchy, is the nemed-school, which
+seems to be preoccupied with the rights of nemed class persons.  The
+Finnṡruth Fíthail seems to fall into the Senchas Már school.  However,
+Fíthal, as a character, does appear in more southerly texts.
 
 * Introduction Pledges and Sureties
 
@@ -181,7 +187,7 @@ contract would enjoin the heirs when disposing of their inheritance.
 * Pledges and Sureties in the Finnṡruth Fíthail B Text
 
 Again a note on the MS provenance, the manuscript catalogue notes that
-the manscript was written for the Mac Aedgáin law school.
+the manscript was written for the Mac Aodhagáin law school.
 Unfortunately, however, not much more is known about this MS (see
 http://lccn.loc.gov/22025414, pg. 249).
 
