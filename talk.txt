@@ -33,17 +33,17 @@ particular talk.
 
 The Finnṡruth Fíthail is preserved in two copies.  The A text, which
 is in CIH 786.25--789.17, is the older of the two.  For instance, it
-preserves the verbal of necessity _finnta_ from the verb ro-fitir "to
-know". The A version preserves some of the original text and extensive
-commentary.  I have not yet attempted to unpack the commentary from
-the original text even if such a distinction should be made.  However,
-the MS is acephelous and the text is cut off after only a few
-pages. The B text in CIH 2131.1--2143.40 is more extensive of the two
-but it is later Old Irish and Middle Irish.  More to the point, the B
-version preserves only block capital copies of the questions asked
-which is then followed by extensive commmentary.  However, as we will
-see, it preserves some interesting points of procedure which the A
-version does not.
+preserves the late verbal of necessity _finnta_ from the verb ro-fitir
+"to know". The A version preserves some of the original text and
+extensive commentary.  I have not yet attempted to unpack the
+commentary from the original text even if such a distinction should be
+made.  However, the MS is acephelous and the text is cut off after
+only a few pages. The B text in CIH 2131.1--2143.40 is more extensive
+of the two but it is later Old Irish and Middle Irish.  More to the
+point, the B version preserves only block capital copies of the
+questions asked which is then followed by extensive commmentary.
+However, as we will see, it preserves some interesting points of
+procedure which the A version does not.
 
 The structure of the Finnṡruth Fíthail is that of a dialogue between
 Fíthal and Socht, who would become Fíthal's son in later literature.
