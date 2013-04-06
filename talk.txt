@@ -34,8 +34,9 @@ particular talk.
 The Finnṡruth Fíthail is preserved in two copies.  The A text, which
 is in CIH 786.25--789.17, is the older of the two.  For instance, it
 preserves the verbal of necessity _finnta_ from the verb ro-fitir "to
-know". The A version preserves some of the original text [What is the
-original text? How can you be confident that this is it?].  However,
+know". The A version preserves some of the original text and extensive
+commentary.  I have not yet attempted to unpack the commentary from
+the original text even if such a distinction should be made.  However,
 the MS is acephelous and the text is cut off after only a few
 pages. The B text in CIH 2131.1--2143.40 is more extensive of the two
 but it is later Old Irish and Middle Irish.  More to the point, the B
@@ -238,16 +239,16 @@ case where the fasting proceedure was used inappropriately.
 Unfortunately, the commentary then switches so we cannot know for
 certain what the outcome of the case was.
 
-The problem of case law in early Irish law is well know.  I am not
+The problem of case law in early Irish law is well known.  I am not
 sure how exactly to understand the case presented.  On the one hand,
 it presents an interesting circumstance where a pledge was given to a
 member of the nobility, which is generally considered unwise.  The
 plaintiff then fasts against the defendant, which is a particularly
 public action.  On the other hand, given that the early Irish that we
 have consists of mainly manuals and handbooks, this might just be a
-commentor giving a case study rather than an actual case.  However
-this does give us more information on how the fasting proceedure would
-work after having brought the defendant to a judge.
+commentor giving a theoretical case study rather than an actual case.
+However this does give us more information on how the fasting
+proceedure would work after having brought the defendant to a judge.
 
 * Conclusion 
 
