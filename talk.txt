@@ -116,13 +116,11 @@ for the contract if it is not executed.  Also, they are a feature of
 the legal procedure as they are used to ensure the "paths of
 judgement" (see Stacey http://lccn.loc.gov/93047677).
 
-[ set out what better known texts say and what is different ]
-
 * Pledges and Sureties in the Finnṡruth Fíthail A Text
 
 As I am still working on the edition of the Finnṡruth Fíthail, I will
 focus on a couple of interesting facets of pledges and sureties as it
-shows some aspects of judicial procedure.  A notes about the
+shows some aspects of judicial procedure.  A note about the
 provenance of this text.  According to the manuscript catalogue, TCD
 MS 1337 was purchased by Edward Lhwyd from Agnew who is described as
 the hereditary bard of O'Niell of Clannaboy in northern Ulster (see
@@ -142,9 +140,10 @@ object" or in other words, when judging a situation which arises out
 of a disputed pledge, the judge should adjudge compensation which is
 like in form to the object pledged in the first instance.  This makes
 sense as pledges were often intimate items to the pledgee.  For
-instance a "work-bag" or an embroiderer's needles.  These objects
-needed to be replaced for the person to continue with their work or
-profession.  In the case of a judge it was five ounces of silver.
+instance, as Prof. Kelly notes, a "work-bag" or an embroiderer's
+needles.  These objects needed to be replaced for the person to
+continue with their work or profession.  In the case of a judge it was
+five ounces of silver.
 
 In this section, the Finnṡruth Fíthail also discusses sureties.  In
 this instance, "surety goes on heirs to the ninth generation".  This
@@ -158,7 +157,15 @@ proceedure, a historian was a part of the proceedings in the
 article on the setup of a full court hearing,
 http://dx.doi.org/10.1484/J.Peri.3.129), which would generally be held
 at an oenach.  Thus, contracts could possibly be made such that a
-historian was necessary to validate any surety.
+historian was necessary to validate any surety.  _Berrad Airechta_ and
+_Di astud chor_ both set out the necessity of sureties and pledges in
+any contract drafting and agreement situation.  Neither of these law
+texts places a length of time on surieties that I have found.  In fact,
+it is interesting to note that _Di astud chor_ cites Adam's contract
+for the apple in the garden of Eden as lasting forever after.  If
+sureities did not last longer than nine generations then subequently
+the contract would become unenforceable and would put a practical end
+to a contract.
 
 The next paragraph of the A text covers the honour price which is due
 to a surety if the counter-party for which they went surety should
@@ -267,3 +274,6 @@ I hope to continue to work on Finnṡruth Fíthail and bring an edition
 out at some point in the future.  I do not wish to give you a
 particular timeline as I am not employed as an academic and I do not
 have the space to be able to devote more time to it at the moment.
+However, I keep my notes on the web and if you are interested, I can
+give you the access information and you can keep track of my progress
+there.
