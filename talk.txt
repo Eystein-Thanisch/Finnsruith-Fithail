@@ -17,10 +17,10 @@ work-in-progress rather than a complete investigation.
 
 Fíthal is a mythological judge who is connected to the equally
 mythological king Cormac mac Airt (see Ó Cathasaigh,
-http://lccn.loc.gov/79344195).  He appears in many different places
+http://lccn.loc.gov/79344195) [Did we discuss this? Apologies if so and if I am repeating myself. I am concerned by the term mythological. I feel like it has the specific meaning of a story representing a socially relevant paradigm. Is this what you intended? If so, more explanation needed It also has connotations of the 'Mythological Cycle' (Túatha De Danann etc). Perhaps 'legendary' would be better?] .  He appears in many different places
 within early Irish literature.  For instance, he appears in a Middle
 Irish poetic dialogue opposite Cormac mac Airt (see my forthcoming
-edition).  In many ways, he is comparable with Morann and Caratina
+edition) [W00t!].  In many ways, he is comparable with Morann and Caratina
 both of whom are more well-known in modern academic circles.  For more
 information you can consult my thesis, which is avaliable online at
 http://hdl.handle.net/1842/3320.
@@ -32,30 +32,30 @@ for a few stray references and Finnṡruth Fíthail, the focus of this
 particular talk.
 
 The Finnṡruth Fíthail is preserved in two copies.  The A text, which
-is in CIH 786.25--789.17, is the older of the two.  For instance, it
-preserves the late verbal of necessity _finnta_ from the verb ro-fitir
-"to know". The A version preserves some of the original text and
+is in CIH 786.25--789.17, is the older of the two [Specify linguistically older? People might think you are talking about the manuscript. Also, mention how many manuscripts preserve A and B].  For instance, it
+preserves the late verb of necessity _finnta_ from the verb ro-fitir
+"to know" [This might be showing up my poor linguistic skills but how does a 'late' verb form demonstrate that it is the older text? Perhaps explain a bit for anyone else like me in the audience ;-)]. The A version preserves some of the original text and
 extensive commentary.  I have not yet attempted to unpack the
 commentary from the original text even if such a distinction should be
 made.  However, the MS is acephelous and the text is cut off after
 only a few pages. The B text in CIH 2131.1--2143.40 is more extensive
-of the two but it is later Old Irish and Middle Irish.  More to the
-point, the B version preserves only block capital copies of the
-questions asked which is then followed by extensive commmentary.
+of the two but it is in later Old Irish and Middle Irish.  More to the
+point, the B version preserves only block capital [I'm not sure this term is used when referring to medieval script. Perhaps the capitals in  CIH are meant to indicate majuscule?] copies of the
+questions asked which is then followed by extensive commmentary. [I am not clear on the distinction in form. A contains questions and answers + commentary and B contains just questions + commentary? Can you put the equivalent section from each text on a slide to illustrate the difference?]
 However, as we will see, it preserves some interesting points of
 procedure which the A version does not.
 
-The structure of the Finnṡruth Fíthail is that of a dialogue between
+Finnṡruth Fíthail is structured as a dialogue between
 Fíthal and Socht, who would become Fíthal's son in later literature.
 In addition to the dialogue format, each topic covered by the text is
 introduced by Socht with the formula _co ber breith_ which means "how
 should/shall I judge".  Roland Smith, in the early 20th century,
-attempted to adduce this as a general rule in early Irish law but this
+attempted to adduce this [What?] as a general rule in early Irish law but this
 is assuredly not the case as the formula is too general to be pressed
 into service in this way (see Smith,
-http://www.vanhamel.nl/wiki/Smith_1931a). This dialogue structure is
+http://www.vanhamel.nl/wiki/Smith_1931a). The corpus of texts utilising this dialogue structure is
 neatly complemented by Gúbretha Caratniad and Audacht Morainn, which
-also uses the dialogue format to achieve its purpose.
+also uses the dialogue format to achieve their purpose.
 
 More generally, many early Irish legal texts have a question and
 answer format.  While the questioner and respondent are generally
@@ -65,7 +65,7 @@ of what we have of the early Irish legal corpus are handbooks rather
 than law itself.  Here anonymous and legendary figures loom large to
 validate the law and instruct students in it within the context of
 universal wisdom literature (for more information see, Yocum
-http://openurl.ingenta.com/content?genre=article&issn=0081-6353&volume=46&issue=1&spage=39&epage=58).
+http://openurl.ingenta.com/content?genre=article&issn=0081-6353&volume=46&issue=1&spage=39&epage=58). [How does the question and answer format specifically aid the text's role as a 'handbook'? Do the questions identify the topics for ease of reference? Is that why B only preserves the questions?]
 
 As for the topics covered, six of the questions ask about domestic
 arrangements, which would have been keen points of concern in a rural
